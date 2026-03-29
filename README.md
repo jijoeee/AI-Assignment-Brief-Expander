@@ -4,7 +4,7 @@
 ![Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📌 The Cure for "Blank Page Panic"
+## 📌 The Cure for Procrastination Habit
 A lightweight, powerful desktop application that transforms vague, 2-line assignment instructions into a highly structured, fully formatted academic roadmap in under 30 seconds. Built for students who need immediate direction.
 
 ### ✨ Key Features
