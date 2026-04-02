@@ -1,4 +1,4 @@
-# 🚀 AI Assignment Brief Expander V1.0
+# 🚀 AI Assignment Brief Expander (v1.0)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-orange.svg)
